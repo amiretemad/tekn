@@ -1,0 +1,17 @@
+{
+    "name": "amiretemad/tek",
+    "authors": [
+        {
+            "name": "amiretemad",
+            "email": "amir.etemad@enuygun.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Notification\\" : "src"
+        }
+    },
+    "require": {
+        "symfony/console": "^5.1"
+    }
+}
